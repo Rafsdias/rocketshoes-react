@@ -4,7 +4,7 @@
     Rocketshoes
 </h1>
 
-Sample store built using React, Redux and Redux-Saga.
+Sample store built using React, Redux and Redux-Saga.a
 
 
 ## :eyes: Preview
